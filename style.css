@@ -1,0 +1,23 @@
+#add{
+    margin: auto;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 10px 10px 10px 10px;
+    width: 400px;
+}
+
+#subtract{
+    margin: auto;
+    text-align: center;
+    background-color: crimson;
+    padding: 10px 10px 10px 10px;
+    width: 400px;
+}
+
+#multiply{
+    margin: auto;
+    text-align: center;
+    background-color: darkseagreen;
+    padding: 10px 10px 10px 10px;    
+    width: 400px;
+}
