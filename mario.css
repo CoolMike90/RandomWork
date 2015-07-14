@@ -1,0 +1,51 @@
+header img {
+height: auto;
+max-width:100%;
+    
+}
+
+div img {
+max-width: 150px;
+height:
+}
+
+#goombas #bob #cheep{
+display:inline;
+}
+
+#goombas{
+float: left;
+text-align: center;
+}
+#goombas img{
+padding: 20px 20px 20px 20px
+
+}
+
+#bob{
+float: right;
+}
+
+#cheep{
+text-align: center;
+
+}
+
+.total{
+float: left;
+}
+
+
+
+footer {
+
+    width: 98%;
+    float:left;
+    padding: 1%;
+    background-color: darkred;
+
+}
+
+footer .footer-left { width: 45%; float:left; text-align:left; }
+
+footer .footer-right { width: 55%; float:right; text-align:right; }
